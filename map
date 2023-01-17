@@ -1,0 +1,13 @@
+<!--Map Section-->
+        <section class="map-section">
+            <div class="map-outer">
+
+                <!--Map Canvas-->
+                <div class="map-canvas" data-zoom="10" data-lat="-37.817085" data-lng="144.955631" data-type="roadmap"
+                    data-hue="#ffc400" data-title="Envato"
+                    data-content="Melbourne VIC 3000, Australia<br><a href='mailto:info@youremail.com'>info@youremail.com</a>"
+                    style="height:450px;">
+                </div>
+
+            </div>
+        </section>
